@@ -256,3 +256,16 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+.Q-container{
+  display: flex;
+  justify-content: center;
+}
+.questions{
+  background-color: rgba(240, 236, 178, 0.856);
+  width: 50%;
+  justify-content: center;
+  border: 2px solid rgb(119, 128, 0);
+  padding: 10px;
+  border-radius: 8px;
+  margin: 25px;
+}
